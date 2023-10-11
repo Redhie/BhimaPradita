@@ -1,0 +1,14 @@
+D:\DNCC Game\TugasRangkumanMateri\bin\Debug\net7.0\TugasRangkumanMateri.exe
+D:\DNCC Game\TugasRangkumanMateri\bin\Debug\net7.0\TugasRangkumanMateri.deps.json
+D:\DNCC Game\TugasRangkumanMateri\bin\Debug\net7.0\TugasRangkumanMateri.runtimeconfig.json
+D:\DNCC Game\TugasRangkumanMateri\bin\Debug\net7.0\TugasRangkumanMateri.dll
+D:\DNCC Game\TugasRangkumanMateri\bin\Debug\net7.0\TugasRangkumanMateri.pdb
+D:\DNCC Game\TugasRangkumanMateri\obj\Debug\net7.0\TugasRangkumanMateri.GeneratedMSBuildEditorConfig.editorconfig
+D:\DNCC Game\TugasRangkumanMateri\obj\Debug\net7.0\TugasRangkumanMateri.AssemblyInfoInputs.cache
+D:\DNCC Game\TugasRangkumanMateri\obj\Debug\net7.0\TugasRangkumanMateri.AssemblyInfo.cs
+D:\DNCC Game\TugasRangkumanMateri\obj\Debug\net7.0\TugasRangkumanMateri.csproj.CoreCompileInputs.cache
+D:\DNCC Game\TugasRangkumanMateri\obj\Debug\net7.0\TugasRangkumanMateri.dll
+D:\DNCC Game\TugasRangkumanMateri\obj\Debug\net7.0\refint\TugasRangkumanMateri.dll
+D:\DNCC Game\TugasRangkumanMateri\obj\Debug\net7.0\TugasRangkumanMateri.pdb
+D:\DNCC Game\TugasRangkumanMateri\obj\Debug\net7.0\TugasRangkumanMateri.genruntimeconfig.cache
+D:\DNCC Game\TugasRangkumanMateri\obj\Debug\net7.0\ref\TugasRangkumanMateri.dll
